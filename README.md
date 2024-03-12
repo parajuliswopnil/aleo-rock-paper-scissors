@@ -1,3 +1,13 @@
+# Rock, Paper, Scissors 
+This project lets the users to play rock, paper scissors by staying anonymous. No user information is revealed. 
+
+Author: parajuliswopnil
+Discord: sheldorbot
+
+
+This project is generated and compiled using DokoJS. DokoJs is proving to be one of the most convinient and important developer tool for aleo. To use DokoJS with your project, follow the DokoJS installation guide below. 
+
+
 # DokoJS Developer Guide
 
 ## Introduction
